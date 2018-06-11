@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Delta Stock Test</string>
+    <string name="map_key">AIzaSyCMEt0fES--6dFrE_Rkluu4jrS1Qr1_EDE</string>
+
+
+    <string name="your_latitude">latitud</string>
+    <string name="your_longitude">longitud</string>
+    <string name="your_city">Ciudad</string>
+    <string name="your_cp">Codigo Postal</string>
+</resources>
